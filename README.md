@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+I'm Jesus, a tech instructor for Dev/Mission in San Francisco.
 <!--
 **JesusEArambula/JesusEArambula** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
